@@ -1,1 +1,5 @@
-# pruebareadme
+## Laboratorio 6
+## Pablo Salas Gómez, C27061
+# Enunciado 1
+El código correspondiente al enunciado 1 utiliza las librerías “time” y “random” para simular el cambio de temperatura y humedad de un medio. Se usó la clase EventManager para recopilar diferentes eventos que puedan ocurrir en una lista y poder realizar ciertas operaciones con estos como suscribirlos, desuscribirlos y notificar su estado mediante funciones callback encargadas de esto. La clase RealTimeDataManager se utilizó para simular un cambio de temperatura y humedad con respecto al tiempo, utilizando valores aleatorios a partir de un valor base. En esta se crea una instancia de la clase EventManager con la cuál se suscribe el evento del cambio de temperatura y humedad y se notifica sobre estos cambios. En el código principal se creó la instancia de la clase RealTimeDataManager y se suscribió su evento a la clase EventManager, después se utilizó la librería threading para iniciar el proceso de cambios de temperatura de forma indefinida hasta que se detenga mediante una interrupción del teclado.
+# Resultados
