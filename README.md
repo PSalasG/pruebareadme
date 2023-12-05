@@ -5,6 +5,16 @@ El programa consiste en una calculadora gráfica la cual es capaz de realizar c�
 
 El programa en python presenta una interfaz gráfica que corresponde a la pantalla y los botones de una calculadora creada mediante la librería Tkinter y personalizada para cumplir con las funciones de esta calculadora, cuando el usuario presiona alguno de los botones aparecerá su correspondiente número, símbolo u operación en la pantalla. Hay botones con funciones especiales como lo son el igual "=" que se encarga de calcular el resultado de una operación escrita y mostrarlo en la pantalla, el de graficar "Graph" que se encarga de generar la gráfica de la función escrita y mostrarla al usuario, y el botón de borrar "Clear" que se encarga de borrar todo lo que aparezca en la pantalla. El usuario puede realizar la cantidad de operaciones o gráficas que desee y cuando quiera finalizar solo debe cerrar la ventana del programa.
 
+La estructura del programa se realizó mediante difrentes clases, las cuales implementan las diferentes funciones para la calculadora, por ejemplo, la clase Interfaz se encarga de abrir la ventana que representa la interfaz gráfica de la calculadora con los botones y la pantalla así como el espacio para las gráficas de funciones. En esta clase es donde se reciben las entradas enviadas por el usuario mediante los botones y se invocan las clases y métodos encargados de resolver o graficar lo deseado. Otra clase incluida es la de Graficar la cual recibe la entrada del usuario en la calculadora y la interpreta para detectar las funciones correspondientes y graficarlas en el espacio para esto, ahí mismo se manejan excepciones al momento de graficar. La tercera clase es la de Calcular la cual recibe la entrada envida por el usuario y la interpreta para obtener el resultado de la operación deseada, ahí tambien se manejan excepciones al momento de calcular el resultado.
+
+### Objetivos
+1. Desarrollar una herramienta para visualizar las funciones ingresadas por el usuario.
+2. Implementar una interfaz gráfica amigable con el usuario.
+
+### Limitaciones
+1. No se logró desarrollar un método para borrar el último digito ingresado por el usuario, por lo que se dejó el método de Clear que borra todo lo que aparece en la pantalla.
+2. Algunas funciones pedían más argumentos de los que se trabajaron para ser graficadas por lo que se tuvo que limitar a fuciones más sencillas.
+
 ## Instalación
 Para usar el programa solo es necesario ejecutar el archivo .py con el código fuente correspondiente a este, pero si es necesario instalar en el equipo las dependencias del código si no están instaladas, estas dependencias se encuentran en el archivo requirements.txt presente en este repositorio y solamente es necesario ejecutar el comando: `pip install -r requirements.txt` en el entorno de python respectivo a cada sistema operativo.
 
