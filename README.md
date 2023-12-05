@@ -35,4 +35,14 @@ Cuando se desee finalizar la ejecución del programa solamente es necesario cerr
 
 ### Operaciones con números y funciones
 
-<a href="https://ibb.co/nz1jjyK"><img src="https://i.ibb.co/2gMddrp/imagen-2023-12-05-144049447.png" alt="imagen-2023-12-05-144049447" border="0"></a>
+<a href="https://ibb.co/0M0LSXs"><img src="https://i.ibb.co/fp3W5SD/imagen-2023-12-05-144443131.png" alt="imagen-2023-12-05-144443131" border="0"></a>
+
+Como se observa en la figura las operaciones se pueden escribir como en una calculadora normal, utilizando cada símbolo de operación donde corresponda, y al presionar "=" se muestra el resultado, como se observa en la siguiente figura.
+
+<a href="https://ibb.co/9HNdScz"><img src="https://i.ibb.co/b5PGDQq/imagen-2023-12-05-144818709.png" alt="imagen-2023-12-05-144818709" border="0"></a>
+
+### Gráficas de fuciones
+
+<a href="https://ibb.co/CH98Jfv"><img src="https://i.ibb.co/bKvmHkL/imagen-2023-12-05-145209906.png" alt="imagen-2023-12-05-145209906" border="0"></a>
+
+En esta figura se puede observar como se deben escribir las funciones para realizar su graficación, utilizando cada símbolo de operación y la variable "x" donde corresponde.
