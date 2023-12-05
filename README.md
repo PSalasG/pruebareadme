@@ -45,4 +45,4 @@ Como se observa en la figura las operaciones se pueden escribir como en una calc
 
 <a href="https://ibb.co/CH98Jfv"><img src="https://i.ibb.co/bKvmHkL/imagen-2023-12-05-145209906.png" alt="imagen-2023-12-05-145209906" border="0"></a>
 
-En esta figura se puede observar como se deben escribir las funciones para realizar su graficación, utilizando cada símbolo de operación y la variable "x" donde corresponde. Además, tambien se modificaron los límites en el eje horizontal de la gráfica para observar más de esta.
+En esta figura se puede observar como se deben escribir las funciones para realizar su graficación, utilizando cada símbolo de operación y la variable "x" donde corresponde. Además, tambien se modificaron los límites en el eje horizontal de la gráfica para observar más de esta, por último se presionó el botón "Graph" para mostrar la gráfica.
