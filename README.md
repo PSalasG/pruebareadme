@@ -7,6 +7,8 @@ El programa en python presenta una interfaz gráfica, que corresponde a la panta
 
 ### Estructura del programa
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DRsbhFx/imagen-2023-12-05-155114741.png" alt="imagen-2023-12-05-155114741" border="0"></a>
+
 La estructura del programa se realizó mediante difrentes clases, las cuales implementan las diferentes funciones para la calculadora, por ejemplo, la clase Interfaz se encarga de abrir la ventana que representa la interfaz gráfica de la calculadora con los botones y la pantalla así como el espacio para las gráficas de funciones. En esta clase es donde se reciben las entradas enviadas por el usuario mediante los botones y se invocan las clases y métodos encargados de resolver o graficar lo deseado. Otra clase incluida es la de Graficar la cual recibe la entrada del usuario en la calculadora y la interpreta para detectar las funciones correspondientes y graficarlas en el espacio para esto, ahí mismo se manejan excepciones al momento de graficar. La tercera clase es la de Calcular la cual recibe la entrada envida por el usuario y la interpreta para obtener el resultado de la operación deseada, ahí tambien se manejan excepciones al momento de calcular el resultado.
 
 ### Objetivos
