@@ -16,7 +16,7 @@ La estructura del programa se realizó mediante difrentes clases, las cuales imp
 2. Algunas funciones pedían más argumentos de los que se trabajaron para ser graficadas por lo que se tuvo que limitar a fuciones más sencillas.
 
 ## Instalación
-Para usar el programa solo es necesario ejecutar el archivo .py con el código fuente correspondiente a este, pero si es necesario instalar en el equipo las dependencias del código si no están instaladas, estas dependencias se encuentran en el archivo requirements.txt presente en este repositorio y solamente es necesario ejecutar el comando: `pip install -r requirements.txt` en el entorno de python respectivo a cada sistema operativo.
+Para usar el programa solo es necesario ejecutar el archivo .py con el código fuente correspondiente a este, pero si es necesario instalar en el equipo las dependencias del código si no están instaladas, estas dependencias se encuentran en el archivo requirements.txt presente en este repositorio y solamente es necesario ejecutar el comando: `pip install -r requirements.txt` en el entorno de python respectivo a la terminal de cada sistema operativo.
 
 ## Uso
 Para ejecutar el programa debe descargar el archivo con el código fuente desde este repositorio e ingresar al directorio donde se encuentra este en su computadora, ahí debe abrir la terminal de su sistema operativo y escribir alguno de los siguientes comandos `python nombre_archivo` o `python3 nombre_archivo`.
